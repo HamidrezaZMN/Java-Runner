@@ -8,3 +8,6 @@ Note: don't add ".java" at the end of the name.<br>
 
 # How-To-Use
 Simply put each one you want in the package you're gonna compile and run and follow the instructions I gave.<br>
+
+Note: You can also put them in the system path, then run them through terminal like a command. for example:
+  $ runp
